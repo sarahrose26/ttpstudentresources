@@ -1,5 +1,7 @@
 [Mozilla Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
+[Douglas Crockford on Javascript video tutorials](https://www.youtube.com/playlist?list=PL7664379246A246CB)
+
 [Eloquent Javascript book](http://eloquentjavascript.net/)
 
 [Javascript Callback functions](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
