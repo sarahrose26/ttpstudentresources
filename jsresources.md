@@ -20,3 +20,5 @@
 
 [Jquery and Ajax API walkthrough](http://blog.teamtreehouse.com/code-a-simple-github-api-webapp-using-jquery-ajax)
 
+[API Tutorials](https://www.codecademy.com/apis)
+
