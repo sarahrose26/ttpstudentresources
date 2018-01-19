@@ -20,3 +20,5 @@
 
 [Handlebars Tutorial](https://code.tutsplus.com/tutorials/an-introduction-to-handlebars--net-27761)
 
+[Structuring an Express Application](http://expressjs.com/en/starter/faq.html)
+
